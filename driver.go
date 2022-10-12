@@ -1,7 +1,6 @@
 package main
 
 import (
-	"C"
 	"bytes"
 	"crypto/aes"
 	"encoding/hex"
