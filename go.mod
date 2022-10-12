@@ -1,4 +1,4 @@
-module testing_go_3
+module GO_AES
 
 go 1.19
 
