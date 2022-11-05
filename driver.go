@@ -64,7 +64,7 @@ func getKey() string {
 
 			var x = getCh()
 
-			if bytes.Compare(x, []byte{13}) == 0 {
+			if bytes.Compare(x, []byte{13}) == 0 {// 13 = Enter Key was Pressed
 				break
 			}
 
